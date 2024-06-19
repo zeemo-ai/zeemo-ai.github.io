@@ -1,2 +1,2 @@
-# zeemo.github.io
+# zeemo-ai.github.io
 https://zeemo.ai
